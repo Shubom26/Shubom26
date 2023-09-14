@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shubom2604@gmail.com**
 
-- ⚡ Fun fact **I Can also Sing.**
+- ⚡ Fun fact **I have always been fascinated by technologies and began to acquire skills in MYSQL, JavaScript, C, HTML and CSS since I was in 10th grade.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
